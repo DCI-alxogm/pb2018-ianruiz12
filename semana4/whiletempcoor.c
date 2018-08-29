@@ -6,7 +6,7 @@ int main(){
            int opcion;
            float temperatura, K,F,C;
            double x,y,aux,r,a,x1,y1;
-           char si,no;
+           
      
            printf("Esoge una opción \n");
            printf("(1) Conversión de grados Celsius a Fahrenheit y a Kelvin \n");
@@ -56,10 +56,10 @@ int main(){
                          } 
                   
                  printf("Esoge una opción \n");
-           printf("(1) Conversión de grados Celsius a Fahrenheit y a Kelvin \n");
-           printf("(2) Conversión de coordenadas cartesianas a polares \n");
-           printf("(3) Salir \n");
-           scanf("%i", &opcion);
+                 printf("(1) Conversión de grados Celsius a Fahrenheit y a Kelvin \n");
+                 printf("(2) Conversión de coordenadas cartesianas a polares \n");
+                 printf("(3) Salir \n");
+                 scanf("%i", &opcion);
                                       }
                  
           return 0; 
