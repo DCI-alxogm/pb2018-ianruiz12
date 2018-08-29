@@ -1,5 +1,3 @@
-/*Este programa hará conversiones de temperatura y de coordenadas cartesianas a polares dependiendo que desees*/
-
 #include<stdio.h>
 #include<math.h>
 
@@ -8,12 +6,16 @@ int main(){
            int opcion;
            float temperatura, K,F,C;
            double x,y,aux,r,a,x1,y1;
+           char si,no;
      
            printf("Esoge una opción \n");
            printf("(1) Conversión de grados Celsius a Fahrenheit y a Kelvin \n");
            printf("(2) Conversión de coordenadas cartesianas a polares \n");
            scanf("%i", &opcion);
-           switch(opcion){
+           
+           while(opcion==1 || opcion==2){
+           
+                 switch(opcion){
                          case 1:
                          printf("Introduzca su temperatura en Celsius \n");
 	                 scanf("%f",&C);
@@ -52,11 +54,13 @@ int main(){
                          printf("Opción no valida");
                          break;
                          } 
+                  
+                 printf("Esoge una opción \n");
+           printf("(1) Conversión de grados Celsius a Fahrenheit y a Kelvin \n");
+           printf("(2) Conversión de coordenadas cartesianas a polares \n");
+           printf("(3) Salir \n");
+           scanf("%i", &opcion);
+                                      }
+                 
           return 0; 
           }
-
-
-
-
-
-
