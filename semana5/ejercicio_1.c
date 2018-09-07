@@ -4,30 +4,26 @@
 #include<math.h>
 
 int main(){
-           
-           int i, n, intervalo, espaciado, inicio;
-           float ex,lo,seno,coseno,raiz;
-           printf("Dame el primer numero del rango que quieres utilizar \n");
-           scanf("%f", inicio);
-           printf("Dime con que numero termina tu rango \n");
-           scanf("%f", intervalo);
-           printf("Dime con que espaciado quieres obtener tus respuestas \n");
-           scanf("%f", espaciado);
-           n= inicio-intervalo/espaciado;
-           for(i=0, i<=n, i+=espaciado){
-           ex=exp(i);
-           printf("El exponencial de %f es:\t %f \n ", i, ex);
-           lo=log(i);
-           printf("El logaritmo de %f es:\t %f \n ", i, lo);
-           seno=sin(i);
-           printf("El seno de %f es:\t %f \n ", i, seno);
-           coseno=cos(i);
-           printf("El coseno de %f es:\t %f \n ", i, coseno);
-           raiz=sqrt(i);
-           printf("El exponencial de %f es:\t %f \n ", i, raiz);
-                                                     }
-           return 0;
-           }
-         
-           
+           float inicial, final, espaciado, i, ex, lo, si, co, sq; //i=contador a=intervalo b=espaciado
+           printf("¿Con cuál numero empezaremos?\n");
+	   scanf("%f",&inicial);
+	   printf("¿Con cuál numero terminaremos?\n");
+	   scanf("%f",&final);
+	   printf("¿Qué espaciado deseas entre los numeros:\n");
+	   scanf("%f",&espaciado);
+           for(i=inicial; i<=final; i+=espaciado){
+	                                         printf("El numero es: %f\n\n",i);
+	                                         ex=exp(i);
+	                                         printf("El exponencial es:\t%f\n",ex);
+	                                         lo=log(i);
+	                                         printf("El logaritmo es:\t%f\n",lo);
+	                                         si=sin(i);
+	                                         printf("El seno es:\t\t%f\n",si);
+	                                         co=cos(i);
+	                                         printf("El coseno es:\t\t%f\n",co);
+	                                         sq=sqrt(i);
+	                                         printf("La raiz cuadrada es:\t%f\n\n",sq);
+	                                         }
 
+	   return 0;
+           }
