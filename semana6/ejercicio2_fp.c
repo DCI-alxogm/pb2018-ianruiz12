@@ -9,7 +9,7 @@ int main(){
 	  int edad[10],genero[10],semestre[10];
 	  float promedio[10],p=0;
 	  
-          fp=fopen("alumnos.txt","r");
+          fp=fopen("alumnos.txt","w");
           for(i=0;i<10;i++){
                            fscanf(fp,"%i", &edad[10]);
 	                   fscanf(fp,"%i", &genero[10]);

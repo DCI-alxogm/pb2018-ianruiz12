@@ -1,0 +1,240 @@
+El numero es: 42.000000
+
+El exponencial es:	1739274975342231552.000000
+El logaritmo es:	3.737670
+El seno es:		-0.916522
+El coseno es:		-0.399985
+La raiz cuadrada es:	6.480741
+
+El numero es: 44.000000
+
+El exponencial es:	12851599879817920512.000000
+El logaritmo es:	3.784190
+El seno es:		0.017702
+El coseno es:		0.999843
+La raiz cuadrada es:	6.633250
+
+El numero es: 46.000000
+
+El exponencial es:	94961195300687970304.000000
+El logaritmo es:	3.828641
+El seno es:		0.901788
+El coseno es:		-0.432178
+La raiz cuadrada es:	6.782330
+
+El numero es: 48.000000
+
+El exponencial es:	701673558687019433984.000000
+El logaritmo es:	3.871201
+El seno es:		-0.768255
+El coseno es:		-0.640144
+La raiz cuadrada es:	6.928203
+
+El numero es: 50.000000
+
+El exponencial es:	5184705457665546911744.000000
+El logaritmo es:	3.912023
+El seno es:		-0.262375
+El coseno es:		0.964966
+La raiz cuadrada es:	7.071068
+
+El numero es: 52.000000
+
+El exponencial es:	38310081899409610637312.000000
+El logaritmo es:	3.951244
+El seno es:		0.986628
+El coseno es:		-0.162991
+La raiz cuadrada es:	7.211102
+
+El numero es: 54.000000
+
+El exponencial es:	283075321831042851012608.000000
+El logaritmo es:	3.988984
+El seno es:		-0.558789
+El coseno es:		-0.829310
+La raiz cuadrada es:	7.348469
+
+El numero es: 56.000000
+
+El exponencial es:	2091659449040921182601216.000000
+El logaritmo es:	4.025352
+El seno es:		-0.521551
+El coseno es:		0.853220
+La raiz cuadrada es:	7.483315
+
+El numero es: 58.000000
+
+El exponencial es:	15455388925836186341081088.000000
+El logaritmo es:	4.060443
+El seno es:		0.992873
+El coseno es:		0.119180
+La raiz cuadrada es:	7.615773
+
+El numero es: 60.000000
+
+El exponencial es:	114200739624191635123863552.000000
+El logaritmo es:	4.094345
+El seno es:		-0.304811
+El coseno es:		-0.952413
+La raiz cuadrada es:	7.745967
+
+El numero es: 62.000000
+
+El exponencial es:	843835682327256981972189184.000000
+El logaritmo es:	4.127134
+El seno es:		-0.739181
+El coseno es:		0.673507
+La raiz cuadrada es:	7.874008
+
+El numero es: 64.000000
+
+El exponencial es:	6235148841753849198737883136.000000
+El logaritmo es:	4.158883
+El seno es:		0.920026
+El coseno es:		0.391857
+La raiz cuadrada es:	8.000000
+
+El numero es: 66.000000
+
+El exponencial es:	46071865476425097060403904512.000000
+El logaritmo es:	4.189655
+El seno es:		-0.026551
+El coseno es:		-0.999647
+La raiz cuadrada es:	8.124039
+
+El numero es: 68.000000
+
+El exponencial es:	340427617290108954280032468992.000000
+El logaritmo es:	4.219508
+El seno es:		-0.897928
+El coseno es:		0.440143
+La raiz cuadrada es:	8.246211
+
+El numero es: 70.000000
+
+El exponencial es:	2515438700355917897481630777344.000000
+El logaritmo es:	4.248495
+El seno es:		0.773891
+El coseno es:		0.633319
+La raiz cuadrada es:	8.366600
+
+El numero es: 72.000000
+
+El exponencial es:	18586717056324128499820681756672.000000
+El logaritmo es:	4.276666
+El seno es:		0.253823
+El coseno es:		-0.967251
+La raiz cuadrada es:	8.485281
+
+El numero es: 74.000000
+
+El exponencial es:	137338296226952816160550342885376.000000
+El logaritmo es:	4.304065
+El seno es:		-0.985146
+El coseno es:		0.171717
+La raiz cuadrada es:	8.602325
+
+El numero es: 76.000000
+
+El exponencial es:	1014800418749161016313350908280832.000000
+El logaritmo es:	4.330733
+El seno es:		0.566108
+El coseno es:		0.824331
+La raiz cuadrada es:	8.717798
+
+El numero es: 78.000000
+
+El exponencial es:	7498416981578344695851552973258752.000000
+El logaritmo es:	4.356709
+El seno es:		0.513978
+El coseno es:		-0.857803
+La raiz cuadrada es:	8.831760
+
+El numero es: 80.000000
+
+El exponencial es:	55406224846767593604562923875729408.000000
+El logaritmo es:	4.382027
+El seno es:		-0.993889
+El coseno es:		-0.110387
+La raiz cuadrada es:	8.944272
+
+El numero es: 82.000000
+
+El exponencial es:	409399685182165081996168128540704768.000000
+El logaritmo es:	4.406719
+El seno es:		0.313229
+El coseno es:		0.949678
+La raiz cuadrada es:	9.055386
+
+El numero es: 84.000000
+
+El exponencial es:	3025077341526288712760030518872899584.000000
+El logaritmo es:	4.430817
+El seno es:		0.733190
+El coseno es:		-0.680023
+La raiz cuadrada es:	9.165152
+
+El numero es: 86.000000
+
+El exponencial es:	22352465286715965841379746666550132736.000000
+El logaritmo es:	4.454347
+El seno es:		-0.923458
+El coseno es:		-0.383698
+La raiz cuadrada es:	9.273619
+
+El numero es: 88.000000
+
+El exponencial es:	165163626613613066163770348909654704128.000000
+El logaritmo es:	4.477337
+El seno es:		0.035398
+El coseno es:		0.999373
+La raiz cuadrada es:	9.380832
+
+El numero es: 90.000000
+
+El exponencial es:	inf
+El logaritmo es:	4.499810
+El seno es:		0.893997
+El coseno es:		-0.448074
+La raiz cuadrada es:	9.486833
+
+El numero es: 92.000000
+
+El exponencial es:	inf
+El logaritmo es:	4.521789
+El seno es:		-0.779466
+El coseno es:		-0.626444
+La raiz cuadrada es:	9.591663
+
+El numero es: 94.000000
+
+El exponencial es:	inf
+El logaritmo es:	4.543295
+El seno es:		-0.245252
+El coseno es:		0.969459
+La raiz cuadrada es:	9.695360
+
+El numero es: 96.000000
+
+El exponencial es:	inf
+El logaritmo es:	4.564348
+El seno es:		0.983588
+El coseno es:		-0.180430
+La raiz cuadrada es:	9.797959
+
+El numero es: 98.000000
+
+El exponencial es:	inf
+El logaritmo es:	4.584968
+El seno es:		-0.573382
+El coseno es:		-0.819288
+La raiz cuadrada es:	9.899495
+
+El numero es: 100.000000
+
+El exponencial es:	inf
+El logaritmo es:	4.605170
+El seno es:		-0.506366
+El coseno es:		0.862319
+La raiz cuadrada es:	10.000000
+

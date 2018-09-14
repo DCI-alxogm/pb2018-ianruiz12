@@ -1,13 +1,12 @@
-Se capturaron 10 alumnos de los cuales:
-4 son mujeres y 6 son hombres
-1 son de primero
-0 son de segundo
-4 son de tercero
-1 son de cuarto
-2 son de quinto
-0 son de sexto
-2 son de septimo
-0 son de octavo
-0 son de noveno
-y el promedio de calificaciones de todos los alumnos es:
-9.000000
+Se reportaron 10 alumnos de los cuales:
+(6) son mujeres y (4) son hombres
+(1) son de primer semestre 
+0 son de segundo semestre 
+1 son de tercer semestre 
+1 son de cuarto semestre 
+2 son de quinto semestre 
+0 son de sexto semestre 
+0 son de septimo semestre 
+1 son de octavo semestre 
+4 son de noveno semestre 
+El promedio de las calificaciones de todos los alumnos es (8.400000) 
